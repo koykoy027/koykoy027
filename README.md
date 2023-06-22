@@ -1,9 +1,3 @@
-<code>
-  rawr
-  #asdasds
-  test
-</code>
-
 ## 🌐 Socials:
 <!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Terpsichora#2825) -->
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joshua727/)
