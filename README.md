@@ -12,8 +12,8 @@
 <div align="center">
   
   ![](https://64.media.tumblr.com/023e918ed2089ab87042c548f06d1e9f/tumblr_mgsj51TyPo1r0a5pgo1_500.gif) <br />
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=PROPUTA;JOSHUA)](https://git.io/typing-svg) <br />
-
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=PROPUTA;JOSHUA) <br />
+  
 </div>
 
 # 📊 GitHub Stats:
